@@ -26,19 +26,19 @@ This project was built to practice Python fundamentals, including loops, functio
 
 ## ⚙️ How to Run
 
-**1. Clone the repository **
+###1. Clone the repository ###
 
 ```bash
 git clone https://github.com/snehartha7/password_generator.git
 ```
 
-**2. Navigate to the Project directory **
+###2. Navigate to the Project directory ###
 
 ```bash
 cd password_generator
 ```
 
-**3. Run main.py **
+###3. Run main.py ###
 
 ```bash
 python main.py
